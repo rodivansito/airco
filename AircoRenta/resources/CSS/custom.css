@@ -1,0 +1,96 @@
+/*General*/
+
+html {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #007bc1;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #44444C;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.btn {
+
+  background-color: #007bc1;
+
+}
+
+.jumbotron {
+
+}
+
+.container {
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
+
+
+}
+
+.fa-whatsapp  {
+  color:#fff;
+  background:
+  linear-gradient(#25d366,#25d366)10px 84%/10px 9px no-repeat,
+  radial-gradient(circle at center, #25d366 63%,transparent 0);
+}
+
+.contact {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-left: 5rem;
+
+}
+
+.Contacto {
+  background-color: #007bc1;
+  color: white;
+}
+
+.fa-facebook-f {
+  color:#f7f7f7 ;
+}
+
+.fa.fa-instagram {
+  {
+    color: transparent;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+}
+
+footer {
+    background-color: #007bc1;
+}
+
+.divider {
+  background-image: url('../images/Taller Panoramica.jpeg');
+  background-size: cover;
+  height: 10rem;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+
+.divider span {
+  margin-top: 4.5rem;
+  margin-bottom: 4.5rem;
+}
